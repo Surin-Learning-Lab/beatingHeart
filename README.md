@@ -28,11 +28,6 @@ Ensure all connections are secure. Incorrect wiring can lead to short circuits o
 Software Setup
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/heartbeat-led-matrix.git
-Open and Upload Sketch:
-
 Open the provided Arduino sketch (Heartbeat_LED_Matrix.ino) in the Arduino IDE.
 Connect your Arduino via USB.
 Select the correct board and port from the Tools menu.
